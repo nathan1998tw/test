@@ -1,0 +1,4 @@
+{
+    "arduino.disableIntelliSenseAutoGen": true,
+    // "C_Cpp.errorSquiggles": "disabled" // Add this if redlines are too annoying.
+}
